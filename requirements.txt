@@ -3,3 +3,4 @@ git+https://github.com/pyrogram/pyrogram@master
 py-tgcalls
 telegraph
 python-dotenv
+apscheduler
